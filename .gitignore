@@ -1,0 +1,17 @@
+# Node.js dependencies (Backend)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+
+# Build output (Frontend)
+build/
+dist/
+
+# VS Code settings (Optional, if using VSCode)
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
